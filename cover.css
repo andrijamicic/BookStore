@@ -402,6 +402,12 @@ h2.display-5 {
   width: 100%;
   height: 100%;
 }
+.d-block.w-20 {
+  max-width: 100%;
+}
+.name {
+  left: 20px !important;
+}
 }
 @media screen and (max-width: 640px)  { 
   .image-div {
