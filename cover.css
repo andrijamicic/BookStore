@@ -246,8 +246,7 @@ body {
   background-color: #d9b22b;
   background-image: url("img/Baloons.jpg");
   background-repeat: no-repeat;
-  background-position: center 100%, center 100%, center 0px;
-  height: 787px;
+  height: auto;
 }
 .four-container {
   max-width: 1180px;
