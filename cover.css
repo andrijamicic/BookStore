@@ -421,6 +421,9 @@ h2.display-5 {
   margin-left: 0px;
   margin-bottom: 5px;
 }
+.cover-container .btn.btn-lg.btn-primary {
+  margin-bottom: 5px;
+}
 .nav-link.active {
   width: 100%;
 }
