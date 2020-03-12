@@ -436,7 +436,11 @@ h2.display-5 {
   left: 20px !important;
 }
 .inner.cover {
-  margin: 0 5%;
+  margin: 200px 5% 0 5%;
+      margin-top: 200px;
+      margin-right: 5%;
+      margin-bottom: 0px;
+      margin-left: 5%;
 }
 .bookconcept-brand {
   margin-left: 10px;
