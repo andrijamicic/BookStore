@@ -161,6 +161,23 @@ h2 {
 body {
   font-family: "Montserrat";
 }
+
+
+/*
+ * nav
+ */
+
+.navbar-toggler {
+  float: right;
+  border: 2px solid #333333;
+}
+.navbar-toggler {
+  display: none;
+}
+.collapse {
+  display: block;
+}
+
 /*
  * Cover
  */
@@ -371,6 +388,12 @@ h2.display-5 {
 /* Extra small devices (phones, less than 768px) */
 /* No media query since this is the default in Bootstrap */
 @media screen and (max-width: 992px)  { 
+  .collapse {
+    display: none;
+}
+.navbar-toggler {
+  display: block;
+}
   .float-right {
     float: none !important;
     margin-left: 80px;
