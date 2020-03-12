@@ -466,6 +466,11 @@ h2.display-5 {
 .bookconcept .inner {
   background: #f4dc875e;
 }
+.name {
+  background-position-x: 10px !important;
+  background-size: 90% !important;
+  background-position-y: 280px !important;
+}
 }
 /* Small devices (tablets, 768px and up) */
 @media screen and (min-width: 768px)  { 
