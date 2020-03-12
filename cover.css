@@ -174,7 +174,7 @@ body {
 }
 #five .image-div .btn-lg {
   font-size: 34px;
-  margin-left: 0;
+  margin-left: -20px;
   width: 250px;
   height: 80px;
   line-height: 45px;
@@ -420,8 +420,14 @@ h2.display-5 {
 #five {
   background-position-x: 60%;
 }
-#cover h1, #cover h1 {
+#cover h1, #cover h1, h2 {
   font-size: 40px;
+}
+#two .display-4 {
+  font-size: 20px;
+}
+.h3, h3 {
+  font-size: 25px;
 }
 .nav-link.active, .nav-link, .btn.btn-lg.btn-primary {
   font-size: 16px !important;
