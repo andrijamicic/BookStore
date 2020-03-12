@@ -350,6 +350,9 @@ h2.display-5 {
   margin-bottom: 50px;
   margin-top: 20px;
 }
+.name p:nth-child(2) {
+  color: #aaa;
+}
 /*
  * Footer
  */
