@@ -447,10 +447,14 @@ h2.display-5 {
     height: 100%;
   }
   .d-block.w-20 {
-    max-width: 100%;
+    width: 100%;
+    float: left;
   }
   .name {
     left: 20px !important;
+    background-position-x: 0% !important;
+    background-size: 90% !important;
+    background-position-y: 90% !important;
   }
   .inner.cover {
     margin: 200px 5% 0 5%;
