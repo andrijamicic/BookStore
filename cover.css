@@ -396,7 +396,7 @@ h2.display-5 {
 }
 .navbar-toggler {
   display: block;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 .navbar-toggler-icon {
   font-size: 10px;
@@ -450,7 +450,7 @@ h2.display-5 {
       margin-left: 5%;
 }
 .bookconcept-brand {
-  margin-left: 10px;
+  margin-left: 20px;
 }
 #four {
   background-position-x: 10%;
