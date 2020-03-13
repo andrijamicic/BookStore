@@ -235,7 +235,7 @@ body {
   color: #333;
   text-transform: uppercase;
 }
-#three h2 {
+.three h2 {
   margin-top: 60px;
 }
 .col-md-3 img {
@@ -246,7 +246,7 @@ body {
 .my-4 {
   margin-bottom: 45px !important;
 }
-#three .row.justify-content-md-center {
+.three .row.justify-content-md-center {
   max-width: 1182px;
   margin: 40px auto 105px auto;
 }
@@ -312,14 +312,14 @@ h2.display-5 {
 .d-block.w-20 {
   float: left;
 }
-#three {
+.three {
   max-width: 76%;
   margin: auto;
 }
 .col-xl-2.box:hover {
   z-index: 1;
 }
-#three .display-4 {
+.three .display-4 {
   font-size: 40px;
   font-weight: 300;
   line-height: 24px;
@@ -436,7 +436,7 @@ h2.display-5 {
 .nav-link.active {
   width: 100%;
 }
-#three img {
+.three img {
   min-width: 100% !important;
   width: 100%;
   height: 100%;
@@ -499,7 +499,7 @@ h2.display-5 {
   background-size: 90% !important;
   background-position-y: 450px !important;
 }
-#three {
+.three {
   max-width: 100%;
 }
 .four-container {
