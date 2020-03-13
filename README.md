@@ -1,6 +1,6 @@
 # BookStore
 Book store Template
-Responsive template
+Responsive Book Store template
 
 Demo
 https://andrijamicic.github.io/BookStore/
