@@ -260,14 +260,17 @@ body {
   text-align: center;
 }
 #four {
-  background-color: #d9b22b;
-  background-image: url("img/Baloons.jpg");
+  background-color: #a37b01;
   background-repeat: no-repeat;
   height: auto;
+  background-image: -webkit-linear-gradient( 180deg, rgb(215, 178, 48) 0%, rgb(163, 123, 1) 70% );
 }
 .four-container {
   max-width: 1180px;
   margin: auto;
+  background-image: url("img/Baloons.jpg");
+  background-repeat: no-repeat;
+  height: auto;
 }
 .carousel {
   position: relative;
@@ -452,7 +455,7 @@ h2.display-5 {
 .bookconcept-brand {
   margin-left: 20px;
 }
-#four {
+.four-container {
   background-position-x: 10%;
 }
 }
@@ -491,7 +494,7 @@ h2.display-5 {
 #three {
   max-width: 100%;
 }
-#four {
+.four-container {
   background-position-x: 20%;
 }
 }
