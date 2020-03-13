@@ -467,10 +467,9 @@ h2.display-5 {
     margin-right: auto;
 }
 #four {
-  background-color: #a37b01;
+  background-color: #f1d470;
   background-repeat: no-repeat;
   height: auto;
-  background-image: -webkit-linear-gradient( 180deg, rgb(215, 178, 48) 0%, rgb(163, 123, 1) 70% );
 }
 #five {
   background-position-x: 60%;
@@ -504,6 +503,7 @@ h2.display-5 {
 }
 .four-container {
   background-position-x: 18%;
+  background-position-y: bottom;
 }
 }
 /* Small devices (tablets, 768px and up) */
