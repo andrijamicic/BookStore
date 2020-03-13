@@ -452,6 +452,9 @@ h2.display-5 {
 .bookconcept-brand {
   margin-left: 10px;
 }
+#four {
+  background-position-x: 10%;
+}
 }
 @media screen and (max-width: 640px)  { 
   .image-div {
@@ -487,6 +490,9 @@ h2.display-5 {
 }
 #three {
   max-width: 100%;
+}
+#four {
+  background-position-x: 20%;
 }
 }
 /* Small devices (tablets, 768px and up) */
