@@ -269,6 +269,7 @@ body {
   background-image: url("img/Baloons.jpg");
   background-repeat: no-repeat;
   height: auto;
+  background-position-y: bottom;
 }
 .four-container div {
   max-width: 1180px;
@@ -503,7 +504,6 @@ h2.display-5 {
 }
 .four-container {
   background-position-x: 18%;
-  background-position-y: bottom;
 }
 }
 /* Small devices (tablets, 768px and up) */
