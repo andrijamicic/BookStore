@@ -260,17 +260,19 @@ body {
   text-align: center;
 }
 #four {
-  background-color: #a37b01;
+  background-color: #deb93b;
   background-repeat: no-repeat;
   height: auto;
-  background-image: -webkit-linear-gradient( 180deg, rgb(215, 178, 48) 0%, rgb(163, 123, 1) 70% );
 }
 .four-container {
-  max-width: 1180px;
   margin: auto;
   background-image: url("img/Baloons.jpg");
   background-repeat: no-repeat;
   height: auto;
+}
+.four-container div {
+  max-width: 1180px;
+  margin: auto;
 }
 .carousel {
   position: relative;
@@ -463,6 +465,12 @@ h2.display-5 {
   .image-div {
     margin-left: auto;
     margin-right: auto;
+}
+#four {
+  background-color: #a37b01;
+  background-repeat: no-repeat;
+  height: auto;
+  background-image: -webkit-linear-gradient( 180deg, rgb(215, 178, 48) 0%, rgb(163, 123, 1) 70% );
 }
 #five {
   background-position-x: 60%;
