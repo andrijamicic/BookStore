@@ -1,4 +1,4 @@
-# BookStore
+# Book Store Bootstrap template
 Book store Template
 Responsive Book Store template
 
